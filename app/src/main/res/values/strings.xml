@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Propelrr Hands On Exam</string>
+
+    <string name="api_url">https://run.mocky.io/v3/</string>
+
+    <string name="full_name">Full Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="age">Age</string>
+    <string name="gender">Gender</string>
+
+    <string-array name="genders">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string name="submit">Submit</string>
+    <string name="response_list">Response List</string>
+    <string name="clear">Clear</string>
+    <string name="close">Close</string>
+    <string name="ok">OK</string>
+
+    <string name="loading">Loading…</string>
+    <string name="message">Message</string>
+
+    <string name="age_value">%d years old</string>
+
+    <string name="required_error">%s is required.</string>
+    <string name="length_error">%s must be at least %d characters.</string>
+    <string name="invalid_error">Invalid %s.</string>
+    <string name="age_error">Age must be greater than or equal to 18 years old.</string>
+</resources>
